@@ -41,7 +41,7 @@ Load the dataset
 Open the dashboard file (.twb / .twbx)
 Use filters to explore insights
 📸 Dashboard Preview
-
+![Dashboard](dashboard.png)
 
 
 💡 Future Improvements
